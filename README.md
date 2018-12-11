@@ -1,8 +1,11 @@
-# Applause [![Build Status](https://img.shields.io/travis/outaTiME/applause.svg)](https://travis-ci.org/outaTiME/applause) [![NPM Version](https://img.shields.io/npm/v/applause.svg)](https://npmjs.org/package/applause)
+# Applause
 
 Pattern replacer that helps creating human-friendly replacements.
 
-**Try our [playground], where you can test every single option of applause.**
+
+## Fork
+This is a fork of git://github.com/outaTiME/applause to allow for more current/secure dependencies.
+
 
 ## Install
 
@@ -24,7 +27,7 @@ npm install applause
 From Git:
 
 ```shell
-git clone git://github.com/outaTiME/applause
+git clone git://github.com/gbochenek/next-applause
 cd applause
 npm link .
 ```
