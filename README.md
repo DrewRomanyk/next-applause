@@ -15,20 +15,20 @@ First make sure you have installed the latest version of [node.js](http://nodejs
 From NPM for use as a command line app:
 
 ```shell
-npm install applause -g
+npm install next-applause -g
 ```
 
 From NPM for programmatic use:
 
 ```shell
-npm install applause
+npm install next-applause
 ```
 
 From Git:
 
 ```shell
 git clone git://github.com/gbochenek/next-applause
-cd applause
+cd next-applause
 npm link .
 ```
 
